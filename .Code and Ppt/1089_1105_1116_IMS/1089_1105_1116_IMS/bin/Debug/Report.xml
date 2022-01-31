@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <T_User>
+    <Username>admin</Username>
+    <Password>admin</Password>
+    <Role>Admin</Role>
+  </T_User>
+  <T_User>
+    <Username>s</Username>
+    <Password>s</Password>
+    <Role>Staff</Role>
+  </T_User>
+</NewDataSet>
